@@ -5,7 +5,7 @@
  */
 
 body {
-    background-color: darkcyan;
+    background-color: slategrey;
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
@@ -13,6 +13,6 @@ footer {
     margin: 50px 0;
 }
 .navbar-inverse {
-    background-color: #fbfff9;
+    background-color: #a0ffc3;
     border-color: #ffffff;
 }
